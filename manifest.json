@@ -1,10 +1,11 @@
 {
     "name": "Vint",
     "short_name": "Vint",
-    "start_url": ".",
+    "id": "vint",
+    "start_url": "/",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#F2DDE1",
+    "theme_color": "#AF2363",
     "description": "Keep track of the wines tasted and pairings using AIS (Italian Sommelier Association) terminology and forms",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
@@ -30,6 +31,46 @@
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
+        }
+    ],
+    "categories": [
+        "utility"
+    ],
+    "screenshots": [
+        {
+            "src": "screenshots/1.png",
+            "sizes": "1440x3120",
+            "type": "image/png"
+        },
+        {
+            "src": "screenshots/2.png",
+            "sizes": "1440x3120",
+            "type": "image/png"
+        },
+        {
+            "src": "screenshots/3.png",
+            "sizes": "1440x3120",
+            "type": "image/png"
+        },
+        {
+            "src": "screenshots/4.png",
+            "sizes": "1440x3120",
+            "type": "image/png"
+        },
+        {
+            "src": "screenshots/5.png",
+            "sizes": "1440x3120",
+            "type": "image/png"
+        },
+        {
+            "src": "screenshots/6.png",
+            "sizes": "1440x3120",
+            "type": "image/png"
+        },
+        {
+            "src": "screenshots/7.png",
+            "sizes": "1440x3120",
+            "type": "image/png"
         }
     ]
 }
